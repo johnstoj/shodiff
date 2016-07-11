@@ -1,0 +1,6 @@
+Shodiff is a Shodan differ.
+
+"A what?"
+
+It searches shodan.io for a specific keyword and stores the result in a local cache. If you search for the same keyword at a later date, it will tell you if the results of the search have changed.
+
